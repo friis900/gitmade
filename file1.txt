@@ -1,4 +1,2 @@
 Hello World!
 123456
-Good bye!
-again
